@@ -1,0 +1,26 @@
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#1a1a1d;
+    position:-webkit-sticky;
+    position:sticky;
+    top: 0%;
+    width: 100%;
+}
+li a:hover:not(.active)
+{
+    background-color: 1B2631 ;
+}
+body  {
+                background-image: url("images/food-.jpg");
+                background-repeat: no-repeat;
+                background-position:center;
+                background-size:cover;
+                background-attachment: fixed;
+                background-color: #d35400 ;
+                margin:0;
+                opacity: 11;
+            }
